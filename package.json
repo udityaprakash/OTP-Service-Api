@@ -14,7 +14,10 @@
     "body-parser": "^2.2.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.1",
     "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.27.0"
+    "whatsapp-web.js": "^1.27.0",
+    "wwebjs-mongo": "^1.1.0"
   }
 }
